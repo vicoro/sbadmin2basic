@@ -19,6 +19,8 @@
 
     <!-- Custom styles for this template-->
     <link href="css/sb-admin-2.min.css" rel="stylesheet">
+    <!-- Jquery -->
+    <script src="js/jquery-3.7.1.js"></script>
 
 </head>
 
